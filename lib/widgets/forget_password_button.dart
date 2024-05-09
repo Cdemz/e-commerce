@@ -14,7 +14,7 @@ class ForgetPasswordButton extends StatelessWidget {
       child: Padding(
           padding: EdgeInsets.fromLTRB(0, 5, rightPadding, 0),
           child: SizedBox(
-            height: 30,
+            height: 25,
             child: FlatButton(
               shape: RoundedRectangleBorder(
                   borderRadius: new BorderRadius.circular(50.0)),
